@@ -29,7 +29,7 @@ Hospital Management System using MySQL, Php and Bootstrap
 ### SOFTWARES USED
   - XAMPP was installed on the Mac OS and APACHE2 Server and MySQL were initialized. And, files were built inside opt/lampp/htdocs/HMS
   - VS Code is used as text editor.
-  - Google Chrome Version 99.0.4844.82 was used to run the project (localhost/myhmsp was used as the url).
+  - Google Chrome Version 99.0.4844.82 was used to run the project (localhost/HMS was used as the url).
   
 
 ### Starting Apache And MySQL in XAMPP:
